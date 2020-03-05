@@ -1,0 +1,19 @@
+{
+  "name": "js_student",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniciusSilva50/js_student.git"
+  },
+  "author": "Vinicius da silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viniciusSilva50/js_student/issues"
+  },
+  "homepage": "https://github.com/viniciusSilva50/js_student#readme"
+}
