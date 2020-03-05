@@ -7,6 +7,9 @@ const runOperators = () => {
     operators._comma()
     operators._deleteInArray()
     operators._deleteInObject()
+    operators._in()
+    operators._spreadArray()
+    operators._spreadObject()
 
 }
 
