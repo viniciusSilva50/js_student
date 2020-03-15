@@ -13,10 +13,6 @@ const runOperators = () => {
 
 }
 
-const viniciusClone = () => {
-    let clonei = 'Uhuu'
-}
-
 const run = () => {
     runOperators()
 }
