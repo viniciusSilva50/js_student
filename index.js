@@ -13,12 +13,14 @@ const runOperators = () => {
 
 }
 
-const functionForPullRequest = () => {
-    const name = 'Vinicius da Silva'
-}
-
 const run = () => {
     runOperators()
 }
+
+
+
+
+
+
 
 run()
