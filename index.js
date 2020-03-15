@@ -14,7 +14,7 @@ const runOperators = () => {
 }
 
 const run = () => {
-    
+    runOperators()
 }
 
 run()
